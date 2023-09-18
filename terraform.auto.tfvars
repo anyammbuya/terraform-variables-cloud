@@ -6,4 +6,4 @@ resource_tags = {
 
 ec2_instance_type = "t3.micro"
 
-instance_count = 4
+instance_count = 3
